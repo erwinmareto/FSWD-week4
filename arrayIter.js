@@ -84,6 +84,7 @@ let evenTotal = calculateTotal(evenValues);
 let oddAverage = oddTotal / oddValues.length;
 let evenAverage = evenTotal / evenValues.length;
 
+//Print all variables into
 console.log("min ganjil: " + oddMin);
 console.log("min genap: " + evenMin);
 console.log("max ganjil:" + oddMax);
